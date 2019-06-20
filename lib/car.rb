@@ -1,2 +1,3 @@
 class Vehicle
-  attr_accessor
+  attr_accessor 
+  
