@@ -3,5 +3,7 @@ class Vehicle
   :wheel_size, :wheel_number
   
   def 
-    initialize()
+    initialize(wheel_size, whee_number)
+    
+    
   
